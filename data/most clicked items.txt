@@ -1,0 +1,112 @@
+{
+    "Sheet1": [
+        {
+            "adlist_id": "62789145",
+            "list_id": "62712428",
+            "Category": "5070",
+            "Category_name": "Desktop",
+            "City": "Tp Hồ Chí Minh",
+            "District": "Quận 1",
+            "Click": "5440",
+            "Subject": "Loa Ampli đầu đĩa",
+            "Price": "5000000",
+            "Sellter type": "Private"
+        },
+        {
+            "adlist_id": "63152870",
+            "list_id": "61787568",
+            "Category": "5040",
+            "Category_name": "Tablets",
+            "City": "Tp Hồ Chí Minh",
+            "District": "Quận 2",
+            "Click": "4710",
+            "Subject": "Tai nghe Sony wc400 chính hãng",
+            "Price": "3000000",
+            "Sellter type": "Private"
+        },
+        {
+            "adlist_id": "62120104",
+            "list_id": "62964211",
+            "Category": "5080",
+            "Category_name": "Components",
+            "City": "Tp Hồ Chí Minh",
+            "District": "Quận 1",
+            "Click": "4229",
+            "Subject": "Tai nghe bluetooth sony WiC400 chính hãng mới",
+            "Price": "2500000",
+            "Sellter type": "Private"
+        },
+        {
+            "adlist_id": "62976703",
+            "list_id": "63051676",
+            "Category": "5060",
+            "Category_name": "Accessories",
+            "City": "Tp Hồ Chí Minh",
+            "District": "Quận 1",
+            "Click": "4019",
+            "Subject": "Micro không dây cao cấp Shure UGX21",
+            "Price": "2000000",
+            "Sellter type": "Private"
+        },
+        {
+            "adlist_id": "62766791",
+            "list_id": "61905815",
+            "Category": "5010",
+            "Category_name": "Mobile Phones",
+            "City": "Tp Hồ Chí Minh",
+            "District": "Quận 1",
+            "Click": "2890",
+            "Subject": "Bán tivi sámung 48 smart  tivi",
+            "Price": "8300000",
+            "Sellter type": "Private"
+        },
+        {
+            "adlist_id": "63028814",
+            "list_id": "62726391",
+            "Category": "5090",
+            "Category_name": "Smart wearables",
+            "City": "Tp Hồ Chí Minh",
+            "District": "Quận 3",
+            "Click": "1024",
+            "Subject": "Loa kenwood nặng 32kg",
+            "Price": "4500000",
+            "Sellter type": "Private"
+        },
+        {
+            "adlist_id": "63052525",
+            "list_id": "62852151",
+            "Category": "5030",
+            "Category_name": "Mobile Phones",
+            "City": "Tp Hồ Chí Minh",
+            "District": "Quận 4",
+            "Click": "945",
+            "Subject": "Micro loa bluetooth hát karaoke",
+            "Price": "3000000",
+            "Sellter type": "Private"
+        },
+        {
+            "adlist_id": "63052162",
+            "list_id": "62534300",
+            "Category": "5050",
+            "Category_name": "Mobile Phones",
+            "City": "Tp Hồ Chí Minh",
+            "District": "Quận 1",
+            "Click": "932",
+            "Subject": "Bán tai soni wic400",
+            "Price": "2000000",
+            "Sellter type": "Private"
+        },
+        {
+            "adlist_id": "61807320",
+            "list_id": "62712428",
+            "Category": "5020",
+            "Category_name": "Desktop",
+            "City": "Tp Hồ Chí Minh",
+            "District": "Quận 1",
+            "Click": "890",
+            "Subject": "Bán mắt CD Bose VIA",
+            "Price": "2000000",
+            "Sellter type": "Private"
+        }
+    ]
+}

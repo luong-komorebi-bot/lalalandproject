@@ -1,0 +1,103 @@
+﻿{
+    "Sheet1": [
+        {
+            "adlist_id": "62789145",
+            "list_id": "62712428",
+            "Category": "5070",
+            "Category_name": "Desktop",
+            "City": "Tp Hồ Chí Minh",
+            "District": "Quận 1",
+            "Subject": "Bộ máy : H97 Pro Gamer + E3 1231V3 + GTX 1060 3G",
+            "Price": "5000000",
+            "Sellter type": "Private"
+        },
+        {
+            "adlist_id": "63152870",
+            "list_id": "61787568",
+            "Category": "5070",
+            "Category_name": "Desktop",
+            "City": "Tp Hồ Chí Minh",
+            "District": "Quận 1",
+            "Subject": "Nguyên dàn pc cấu hình van phong",
+            "Price": "3000000",
+            "Sellter type": "Private"
+        },
+        {
+            "adlist_id": "62120104",
+            "list_id": "62964211",
+            "Category": "5070",
+            "Category_name": "Desktop",
+            "City": "Tp Hồ Chí Minh",
+            "District": "Quận 1",
+            "Subject": "Intel Core i7 8 GB 250 GB NVIDIA",
+            "Price": "2500000",
+            "Sellter type": "Private"
+        },
+        {
+            "adlist_id": "62976703",
+            "list_id": "63051676",
+            "Category": "5070",
+            "Category_name": "Desktop",
+            "City": "Tp Hồ Chí Minh",
+            "District": "Quận 1",
+            "Subject": "Dư dùng thanh lý Dell Precision T5500",
+            "Price": "2000000",
+            "Sellter type": "Private"
+        },
+        {
+            "adlist_id": "62766791",
+            "list_id": "61905815",
+            "Category": "5070",
+            "Category_name": "Desktop",
+            "City": "Tp Hồ Chí Minh",
+            "District": "Quận 1",
+            "Subject": "giàn h61 chiến game , học tập giá sinh viên",
+            "Price": "8300000",
+            "Sellter type": "Private"
+        },
+        {
+            "adlist_id": "63028814",
+            "list_id": "62726391",
+            "Category": "5070",
+            "Category_name": "Desktop",
+            "City": "Tp Hồ Chí Minh",
+            "District": "Quận 1",
+            "Subject": "Bộ intel i5 680 3.6ghz CHuyen Thu Âm làm phim chơi",
+            "Price": "4500000",
+            "Sellter type": "Private"
+        },
+        {
+            "adlist_id": "63052525",
+            "list_id": "62852151",
+            "Category": "5070",
+            "Category_name": "Desktop",
+            "City": "Tp Hồ Chí Minh",
+            "District": "Quận 1",
+            "Subject": "Thùng Co dua E5399 ram 2G hdd 250G men G31 giga",
+            "Price": "3000000",
+            "Sellter type": "Private"
+        },
+        {
+            "adlist_id": "63052162",
+            "list_id": "62534300",
+            "Category": "5070",
+            "Category_name": "Desktop",
+            "City": "Tp Hồ Chí Minh",
+            "District": "Quận 1",
+            "Subject": "Imac 2019 21.5\\\" 4k 3.0ghz/i5/1tb-MRT42SA/A bh12th",
+            "Price": "2000000",
+            "Sellter type": "Private"
+        },
+        {
+            "adlist_id": "61807320",
+            "list_id": "62712428",
+            "Category": "5070",
+            "Category_name": "Desktop",
+            "City": "Tp Hồ Chí Minh",
+            "District": "Quận 1",
+            "Subject": "Máy tinh Gaming mới mua năm 2018 rẻ",
+            "Price": "2000000",
+            "Sellter type": "Private"
+        }
+    ]
+}
